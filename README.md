@@ -21,7 +21,7 @@ In this tutorial, I will guide you through the process of setting up a home lab 
 
 <p align="center">
 Create Your Domain Controller (DC) Virtual Machine: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
+<img src="" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Set Up Active Directory and DHCP: <br/>
