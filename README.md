@@ -25,59 +25,59 @@ Create Your Domain Controller (DC) Virtual Machine: <br/>
 <br />
 <br />
 Set Up Active Directory and DHCP: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Create Client Virtual Machines and Join Them to the Domain: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Create an Organizational Unit (OU) for Admin Accounts: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Create a Dedicated Domain Admin Account: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Add the Admin User to the Domain Admins Group: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Configure DNS Settings: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Configure DHCP Options: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Create a Windows 10 Client VM: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Domain Join the Windows 10 Client: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Test Domain Functionality: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Run the PowerShell Script to Create Users: <br/>
-<img src="https://i.imgur.com/ibulH39.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ibulH39.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Verify User Creation in Active Directory: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Join the Windows 10 Client to the Domain: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Verify Domain Membership: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
 
