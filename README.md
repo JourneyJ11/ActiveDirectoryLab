@@ -20,15 +20,67 @@ In this tutorial, I will guide you through the process of setting up a home lab 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-: <br/>
+Create Your Domain Controller (DC) Virtual Machine: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-: <br/>
+Set Up Active Directory and DHCP: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-: <br/>
+Create Client Virtual Machines and Join Them to the Domain: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create an Organizational Unit (OU) for Admin Accounts: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create a Dedicated Domain Admin Account: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add the Admin User to the Domain Admins Group: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configure DNS Settings: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configure DHCP Options: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create a Windows 10 Client VM: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Domain Join the Windows 10 Client: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Test Domain Functionality: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Client Virtual Machines and Join Them to the Domain: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Client Virtual Machines and Join Them to the Domain: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Client Virtual Machines and Join Them to the Domain: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Client Virtual Machines and Join Them to the Domain: <br/>
+<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Client Virtual Machines and Join Them to the Domain: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
