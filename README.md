@@ -64,26 +64,23 @@ Test Domain Functionality: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Client Virtual Machines and Join Them to the Domain: <br/>
+Run the PowerShell Script to Create Users: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Client Virtual Machines and Join Them to the Domain: <br/>
+Verify User Creation in Active Directory: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Client Virtual Machines and Join Them to the Domain: <br/>
+Join the Windows 10 Client to the Domain: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Client Virtual Machines and Join Them to the Domain: <br/>
+Verifying Domain Membership: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Client Virtual Machines and Join Them to the Domain: <br/>
-<img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 </p>
 
