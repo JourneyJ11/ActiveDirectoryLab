@@ -76,7 +76,7 @@ Join the Windows 10 Client to the Domain: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Verifying Domain Membership: <br/>
+Verify Domain Membership: <br/>
 <img src="URL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
