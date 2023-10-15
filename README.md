@@ -52,6 +52,14 @@ Configure DHCP Options: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
+Run the PowerShell Script to Create Users: <br/>
+<img src="https://i.imgur.com/ibulH39.png" height="80%" width="80%" alt="."/>
+<br />
+<br />
+Verify User Creation in Active Directory: <br/>
+<img src="URL" height="80%" width="80%" alt="."/>
+<br />
+<br />
 Create a Windows 10 Client VM: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
@@ -61,22 +69,6 @@ Domain Join the Windows 10 Client: <br/>
 <br />
 <br />
 Test Domain Functionality: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
-<br />
-<br />
-Run the PowerShell Script to Create Users: <br/>
-<img src="https://i.imgur.com/ibulH39.png" height="80%" width="80%" alt="."/>
-<br />
-<br />
-Verify User Creation in Active Directory: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
-<br />
-<br />
-Join the Windows 10 Client to the Domain: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
-<br />
-<br />
-Verify Domain Membership: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
