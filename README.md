@@ -25,7 +25,7 @@ Create Your Domain Controller (DC) Virtual Machine: <br/>
 <br />
 <br />
 Set Up Active Directory and DHCP: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/OvDNbQd.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Create Client Virtual Machines and Join Them to the Domain: <br/>
@@ -49,7 +49,7 @@ Configure DNS Settings: <br/>
 <br />
 <br />
 Configure DHCP Options: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/TkvOAqg.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Run the PowerShell Script to Create Users: <br/>
